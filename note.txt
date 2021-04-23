@@ -1,1 +1,2 @@
 hello
+This is the test for the git commands by using the bash.
